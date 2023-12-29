@@ -1,4 +1,4 @@
-# Soma simples A + B x = aos valores iseridos em A e B
+# Soma simples A + B x = aos valores inseridos em A e B
 
 A = int(input('Digite o valor de A: '))
 B = int(input('Digite o valor de B: '))
