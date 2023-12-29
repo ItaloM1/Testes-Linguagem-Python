@@ -1,0 +1,15 @@
+# Teste Variaveis
+
+nome = 'Edu'
+sobrenome = 'souza'
+idade= 17
+data_de_nacimento = 2023 - idade
+maior_de_idade = idade >= 18
+altura_em_metros = 1.97
+
+print('Qual seu nome?:', nome)
+print('Qual seu sobrenome?:', sobrenome)
+print('Qual a sua idade?:', idade)
+print('Qual a sua data de naciemnto?:', data_de_nacimento)
+print('Você é maior de idade?:', maior_de_idade)
+print('Qual a sua altura em metros?:', altura_em_metros)
